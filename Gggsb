@@ -1,0 +1,9 @@
+For example i want to replace all these Jars with different Jars (i will share later) /opt/napaonline/hybrissuite/hybris/bin/ext-commerce/orbeonweb/web/webroot/WEB-INF/lib/log4j-1.2.17.jar
+/opt/napaonline/hybrissuite/hybris/bin/ext-commerce/solrserver/resources/solr/server/lib/ext/log4j-1.2.17.jar
+/opt/napaonline/hybrissuite/hybris/bin/platform/ext/core/lib/log4j-api-2.7.jar
+/opt/napaonline/hybrissuite/hybris/bin/platform/ext/core/lib/log4j-core-2.7.jar
+/opt/napaonline/hybrissuite/hybris/bin/platform/ext/core/lib/log4j-1.2.17.jar
+/opt/napaonline/hybrissuite/hybris/bin/platform/ext/core/lib/log4j-slf4j-impl-2.7.jar
+/opt/napaonline/hybrissuite/installer/libs/log4j-1.2.17.jar
+/opt/napaonline/hybrissuite/installer/orchestrationLibs/log4j-api-2.7.jar
+/opt/napaonline/hybrissuite/installer/orchestrationLibs/log4j-core-2.7.jar
